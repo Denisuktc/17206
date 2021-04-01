@@ -5,7 +5,7 @@ v = a * b * c
 s = a * b + a * c + b * c / 2
 
 if a <= 0 or b <= 0 or c <= 0:
-    print("The inputs are wrong")
+    print("The Inputs are wrong!")
 else:
     print(v)
     print(s)
