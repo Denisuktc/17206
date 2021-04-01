@@ -9,8 +9,8 @@ public class Main {
     b = Double.parseDouble(zadacha.nextLine());
     c = Double.parseDouble(zadacha.nextLine());
     
-    float S = ((a.2)+(b.2)).c;
-    float V = a.b.c;
+    double S = ((a.2)+(b.2)).c;
+    double V = a.b.c;
     
     System.out.println(S);
     System.out.print(V);
